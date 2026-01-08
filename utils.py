@@ -199,7 +199,7 @@ def render_sidebar(df_master, df_exploded):
     load_css()
     
     # Reverted to Wikimedia Logo as requested
-    st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/2/20/Logo_PLN.svg", width=100)
+    st.sidebar.image("https://www.plnnusantarapower.co.id/images/logo-pln.png", width=100)
         
     st.sidebar.title("HSE Filter")
 
